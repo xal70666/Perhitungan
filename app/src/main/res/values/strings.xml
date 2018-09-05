@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Perhitungan</string>
-    <string name="panjang">panjang</string>
-    <string name="lebar">lebar</string>
-    <string name="tinggi">tinggi</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hasil">Hasil</string>
+    <string name="hitung">Hitung</string>
+    <string name="hitungvolume">Hitung Volume</string>
 </resources>
